@@ -4,6 +4,7 @@
 .classpath
 .project
 .history
+.settings
 target
 **/target
 project/project
